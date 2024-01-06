@@ -1,16 +1,20 @@
-### Hi there 👋
-
-<!--
-**HMZElidrissi/HMZElidrissi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <samp>
+    <a href="https://hmzelidrissi.me/about">About me</a> •
+    <a href="https://hmzelidrissi.me/">My blog</a> •
+    <a href="https://www.linkedin.com/in/hmzelidrissi">LinkedIn</a> •
+    <a href="https://x.com/HMZElidrissi">X</a>
+  </samp>
+</p>
+<h1 align="center">Hello, HMZElidrissi here! 👋</h1>
+<p align="center">
+As a <strong>software developer</strong>, my priority is delivering solutions to complex technical challenges, focusing on both <em>front-end</em> and <em>back-end</em> development. I emphasize <strong>attention to detail</strong>, <strong>effective communication</strong>, and <strong>problem-solving skills</strong>.
+</p>
+<p align="center">
+I'm continually seeking to enhance my skills and stay abreast of the latest industry trends and best practices.
+</p>
+<p align="center">
+<strong>
+Let's connect and explore possibilities together! 🤝
+<strong>
+</p>
