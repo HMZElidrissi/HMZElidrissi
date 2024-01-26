@@ -10,8 +10,8 @@
 <p align="center">
 A <strong>full-stack developer<strong> who always looks to improve his skills and stay up-to-date with the latest industry trends and best practices.
 </p>
-<p align="center">
+<h3 align="center">
 <strong>
 Let's connect and explore possibilities together! 🤝
 <strong>
-</p>
+</h3>
