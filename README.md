@@ -8,8 +8,10 @@
   </samp>
 </p>
 <h1 align="center">Hello, HMZElidrissi here! 👋</h1>
-* A **full-stack developer** who always looks to improve his skills and stay up-to-date with the latest industry trends and best practices.
-* A **Huge** Java and Go enthusiast.
+<ul>
+  <li>A **full-stack developer** who always looks to improve his skills and stay up-to-date with the latest industry trends and best practices.</li>
+  <li>A **Huge** Java and Go enthusiast.</li>
+</ul>
 <h3 align="center">
 <strong>
 If you have any inquiries or feedback, please don't hesitate to reach out to me via email or social media. I'm always open to new opportunities and collaborations. 🤝
