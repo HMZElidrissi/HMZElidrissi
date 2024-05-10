@@ -9,8 +9,8 @@
 </p>
 <h1 align="center">Hello, HMZElidrissi here! 👋</h1>
 <ul>
-  <li>A <strong>full-stack developer<strong> who always looks to improve his skills and stay up-to-date with the latest industry trends and best practices.</li>
-  <li>A <strong>Huge<strong> Java and Go enthusiast.</li>
+  <li>A <strong>full-stack developer</strong>strong> who always looks to improve his skills and stay up-to-date with the latest industry trends and best practices.</li>
+  <li>A <strong>Huge</strong>strong> Java and Go enthusiast.</li>
 </ul>
 <h3 align="center">
 <strong>
