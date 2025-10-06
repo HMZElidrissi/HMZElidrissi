@@ -9,11 +9,11 @@
 </p>
 <h1 align="center">Hello, HMZElidrissi here! 👋</h1>
 <ul>
-  <li>A <strong>full-stack developer</strong> who always looks to improve his skills and stay up-to-date with the latest industry trends and best practices.</li>
-  <li>A <strong>Huge</strong> Java and DevOps enthusiast.</li>
+  <li>A <strong>Dev/Ops</strong> consultant and a <strong>full-stack developer</strong>.</li>
+  <li>A <strong>Huge</strong> Go and distributed systems enthusiast.</li>
 </ul>
 <h3 align="center">
 <strong>
-If you have any inquiries or feedback, please don't hesitate to reach out to me via email or social media. I'm always open to new opportunities and collaborations. 🤝
+For business inquiries get in touch with me via email or social media. I'm always open to new opportunities and collaborations. 🤝
 <strong>
 </h3>
